@@ -1,0 +1,7 @@
+{
+  "packages": [
+    "projects/*"
+  ],
+  "useWorkspace": true,
+  "version": "independent"
+}
