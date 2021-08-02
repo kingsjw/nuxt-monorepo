@@ -10,7 +10,7 @@ lerna bootstrap
 각 서비스에서 공통 되는 모듈을 root에 설치
 lerna bootstrap --hoist
 
-node_modules 제서
+node_modules 제거
 lerna clean
 
 ```
