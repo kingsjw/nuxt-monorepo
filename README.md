@@ -1,6 +1,9 @@
 # monorepo 형태에 nuxt 프로젝트 구성하기
 
 ```shell
+lerna project 생성
+lerna init
+
 프로젝트 생성
 cd projects && yarn create nuxt-app {프로젝트 이름}
 
